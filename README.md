@@ -1,4 +1,5 @@
-# Udemy TypeScript skeleton project
+# Udemy TypeScript Drag n Drop practice project
+
 ### Setup 
 - npm install
 - npm install -g typescript
